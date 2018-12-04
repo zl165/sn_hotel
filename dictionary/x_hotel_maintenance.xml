@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client" audit="true" extends="task" label="Maintenance" max_length="40" name="x_hotel_maintenance" sizeclass="12" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Room Nr." max_length="32" name="room" reference="x_hotel_room" type="reference"/>
+    </element>
+</database>

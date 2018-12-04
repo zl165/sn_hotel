@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ffa45d34db5d23006fb89006db961967" sys_domain="global" table="x_hotel_check_in" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 12:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37a45d34db5d23006fb89006db96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_hotel_check_in" name="x_hotel_check_in" sys_domain="global" view="Default view">ffa45d34db5d23006fb89006db961967</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">9a864ee5db0523006fb89006db96196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 12:00:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 12:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33a45d34db5d23006fb89006db96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_hotel_check_in" name="x_hotel_check_in" sys_domain="global" view="Default view">ffa45d34db5d23006fb89006db961967</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_hotel_check_in" sys_domain="global" view="Default view">bfa45d34db5d23006fb89006db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 12:00:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_hotel_check_in</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 12:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffa45d34db5d23006fb89006db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_hotel_check_in</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ffa45d34db5d23006fb89006db961967</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 12:00:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
